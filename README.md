@@ -2,8 +2,7 @@
 
 
 **AntonioGomez1987/AntonioGomez1987** is a ✨ _special_ ✨ `README.md` Entusiasta por aprender nuevas tecnologías, adquirí competencias
-y habilidades en diversos lenguajes de programación Java, Python,
-PHP y JavaScript. Considero ser una persona que se adapta a las
+y habilidades en diversos lenguajes de programación Java, Python y JavaScript. Considero ser una persona que se adapta a las
 nuevas herramientas que emergen cada día, entiendo que el
 aprendizaje es colectivo y colaborativo en el mundo del desarrollo
 de software.
