@@ -11,5 +11,5 @@ de software.
 - 🌱 I’m currently learning Java, node js, Angular
 - 👯 I’m looking to collaborate on open source
 - 🤔 I’m looking for help with Angular
-- 📫 How to reach me: https://www.linkedin.com/feed/](https://www.linkedin.com/in/josé-antonio-gómez-/
+- 📫 How to reach me: https://www.linkedin.com/in/josé-antonio-gómez-/
 
