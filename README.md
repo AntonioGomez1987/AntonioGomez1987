@@ -7,8 +7,6 @@ nuevas herramientas que emergen cada día, entiendo que el
 aprendizaje es colectivo y colaborativo en el mundo del desarrollo
 de software.
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on java script, Angular y node js
 - 🌱 I’m currently learning Java, node js, Angular
 - 👯 I’m looking to collaborate on open source
