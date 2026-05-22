@@ -1,15 +1,19 @@
-### Hi there 👋
+# **José Antonio Gómez**
 
+Desarrollador Web Full Stack enfocado en Java, Spring Boot y Angular.
 
-**AntonioGomez1987/AntonioGomez1987** is a ✨ _special_ ✨ `README.md` Entusiasta por aprender nuevas tecnologías, adquirí competencias
-y habilidades en diversos lenguajes de programación Java, Python y JavaScript. Considero ser una persona que se adapta a las
-nuevas herramientas que emergen cada día, entiendo que el
-aprendizaje es colectivo y colaborativo en el mundo del desarrollo
-de software.
+## Tecnologías
 
-- 🔭 I’m currently working on java script, Angular y node js
-- 🌱 I’m currently learning Java, node js, Angular
-- 👯 I’m looking to collaborate on open source
-- 🤔 I’m looking for help with Angular
-- 📫 How to reach me: https://www.linkedin.com/in/josé-antonio-gómez-/
+Java • Spring Boot • Angular • TypeScript • MySQL • Node.js • REST APIs • Git
+
+## Experiencia
+
+* Desarrollo de aplicaciones Full Stack
+* Integración de APIs REST
+* Diseño de bases de datos
+* Sistemas de inventario y gestión empresarial
+
+## Actualmente
+
+Me encuentro fortaleciendo mis habilidades en desarrollo backend y frontend, construyendo proyectos enfocados en aplicaciones empresariales y soluciones web escalables.
 
